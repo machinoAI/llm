@@ -1,0 +1,4 @@
+- AI agents has been built using llama3-70B model.
+- Used Groq API for free access of llama3-70B model.
+- The first agents classify the given email contents as 'Important`, `casual`, `promotional' and `spam`.
+- The second agent reply based on the above classifier.
